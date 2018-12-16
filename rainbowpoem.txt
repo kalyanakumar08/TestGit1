@@ -1,6 +1,6 @@
 this  file  represent the rainbow \
 
-
+orange
 blue 
 green  
 red
