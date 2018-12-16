@@ -4,6 +4,7 @@ purple
 orange
 blue 
 green  
+indigo
 red
 unicorn
  white  
