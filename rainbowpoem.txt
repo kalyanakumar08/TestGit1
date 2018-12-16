@@ -1,0 +1,9 @@
+this  file  represent the rainbow \
+
+
+blue 
+green  
+red
+ white  
+ yellow  
+ 
