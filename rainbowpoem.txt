@@ -1,5 +1,5 @@
 this  file  represent the rainbow \
-
+purple
 orange
 blue 
 green  
