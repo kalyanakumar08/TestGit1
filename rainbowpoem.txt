@@ -1,9 +1,11 @@
+rainblw and  unicorn
 this  file  represent the rainbow \
 purple
 orange
 blue 
 green  
 red
+unicorn
  white  
  yellow  
  
